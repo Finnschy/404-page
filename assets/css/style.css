@@ -1,0 +1,71 @@
+
+body {
+    background-image: url(../img/Lev3_2_css-einführung_units.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    font-size: 10px;
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    }
+
+
+    nav {
+        font-size: 1rem;
+        font-style: italic;
+        font-weight: 700;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: .5rem;
+        color: #565c73;
+    }
+
+    section {
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: -5rem;
+    }
+
+h1, h2, p {
+    color: #cdd4dea9;
+}
+
+    h1 {
+        font-size: 20rem;
+        margin-bottom: -3rem;
+    }
+
+    h2 {
+        font-size: 4rem;
+        margin-bottom: 0rem;
+    }
+
+    p {
+        font-size: 1.3rem;
+    }
+
+    a {
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        color: #CDD4DE;
+        text-decoration: none;
+        border: 1px solid #CDD4DE;
+        border-radius: 0.3rem;
+        padding: .8rem 1.5rem;
+
+    }
+
+    article {
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 18rem;
+       
+    }
+
+
+    a:hover {
+        background-color: #cdd4de5a;
+    }
